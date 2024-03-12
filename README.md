@@ -7,12 +7,12 @@ Note: as Open AI Sora is still in its early stages, the awesome list will be upd
 ## Table of Contents
 
 - [GitHub projects](#github-projects)
-- [Articles and Blogs](#articles-&-blogs)
+- [Articles and Blogs](#articles-and-blogs)
 - [Books](#books)
 - [Research Papers](#research-papers)
 - [Videos](#videos)
-- [Tools and Software](#tools-&-software)
-- [Conferences and Events](#conferences-&-events)
+- [Tools and Software](#tools-and-software)
+- [Conferences and Events](#conferences-and-events)
 - [Podcasts](#podcasts)
 
 ## GitHub projects
