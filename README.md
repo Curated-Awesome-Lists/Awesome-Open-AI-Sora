@@ -112,6 +112,9 @@ Analyze how LTX Studio stacks up against OpenAI's Sora in this comparison. Evalu
 Discover OpenAI's Sora on Product Hunt, a leading platform for the latest tech innovations. Sora is highlighted as a pioneering text-to-video model that transforms textual prompts into engaging video content.
 
 
+- **[TubePrompter](https://tubeprompter.com)** 🎬
+TubePrompter is a free tool that converts YouTube, TikTok, and Instagram videos into optimized prompts for Sora and other AI video generators. It uses computer vision to analyze video frames and extract camera movements, color grading, and composition details for prompt generation.
+
 ## Slides and Presentations
 
 - 🎥 **SORA AI: Will It Be the Future of Video Creation?** - [View Slide](https://www.slideshare.net/slideshow/sora-ai-will-it-be-the-future-of-video-creation/267439592)
