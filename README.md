@@ -110,6 +110,8 @@ Compare Kaiber, Runway, and OpenAI's Sora using this detailed chart. Assess each
 Analyze how LTX Studio stacks up against OpenAI's Sora in this comparison. Evaluate the strengths and weaknesses of each AI video tool to choose the right software for your projects.
 - **[The best new products in tech. - Product Hunt](https://www.producthunt.com/p/sora-by-openai/sora-by-openai-2)** 🛍️
 Discover OpenAI's Sora on Product Hunt, a leading platform for the latest tech innovations. Sora is highlighted as a pioneering text-to-video model that transforms textual prompts into engaging video content.
+- **[Seedance 2.0 AI Video — Free Online Sora Alternative](https://seedance2aivideo.app/)** 🎬
+Seedance 2.0 is a free online AI video generator built on ByteDance's Seedance model, offering text-to-video and image-to-video creation with native audio sync, lifelike lip-sync in 8+ languages, character consistency, and multi-shot storytelling. A compelling Sora alternative for creators and marketers.
 
 
 ## Slides and Presentations
