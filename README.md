@@ -112,6 +112,8 @@ Analyze how LTX Studio stacks up against OpenAI's Sora in this comparison. Evalu
 Discover OpenAI's Sora on Product Hunt, a leading platform for the latest tech innovations. Sora is highlighted as a pioneering text-to-video model that transforms textual prompts into engaging video content.
 - **[Seedance 2.0 AI Video — Free Online Sora Alternative](https://seedance2aivideo.app/)** 🎬
 Seedance 2.0 is a free online AI video generator built on ByteDance's Seedance model, offering text-to-video and image-to-video creation with native audio sync, lifelike lip-sync in 8+ languages, character consistency, and multi-shot storytelling. A compelling Sora alternative for creators and marketers.
+- **[Gemini Omni AI Video Generator — Free Online Sora Alternative](https://gemini-omni.pro/)** 🎬
+Gemini Omni is a free AI video generator powered by Google's omni-modal model, supporting text-to-video and image-to-video with native audio sync and in-chat editing. A fast, controllable Sora alternative that accepts text, image, video, and audio in a single prompt.
 
 
 - **[TubePrompter](https://tubeprompter.com)** 🎬
