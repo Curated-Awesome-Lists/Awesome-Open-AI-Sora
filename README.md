@@ -94,6 +94,7 @@ This handbook provides a quick and easy guide to creating videos with OpenAI's S
 
 ## Tools and Software
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity and score agents before x402 micropayments in AI video generation pipelines. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - **[Sora by OpenAI - Product Information, Latest Updates, and Reviews](https://www.producthunt.com/products/sora-by-openai)** 📦
 OpenAI's Sora is an advanced text-to-video model designed to bridge the gap between textual prompts and video generation. By integrating audio capabilities, Sora enhances storytelling and creative expression, making it a pioneering tool in AI-driven video creation.
 - **[Early testers leak OpenAI's Sora video model, accusing the company of exploitation](https://alternativeto.net/news/2024/11/early-testers-leak-openai-s-sora-video-model-accusing-the-company-of-exploitation/)** 🕵️‍♂️
