@@ -114,6 +114,9 @@ Discover OpenAI's Sora on Product Hunt, a leading platform for the latest tech i
 Seedance 2.0 is a free online AI video generator built on ByteDance's Seedance model, offering text-to-video and image-to-video creation with native audio sync, lifelike lip-sync in 8+ languages, character consistency, and multi-shot storytelling. A compelling Sora alternative for creators and marketers.
 
 
+- **[Seedream AI Studio](https://seedream4.video)** 🎨🎬
+Seedream AI Studio is a free-tier AI platform that combines image generation (Seedream 5.0/4.5/4.0 models from ByteDance) with one-click video animation powered by Kling 2.1. A compelling Sora alternative for creators who want to go from text-to-image-to-video in a single workflow.
+
 - **[TubePrompter](https://tubeprompter.com)** 🎬
 TubePrompter is a free tool that converts YouTube, TikTok, and Instagram videos into optimized prompts for Sora and other AI video generators. It uses computer vision to analyze video frames and extract camera movements, color grading, and composition details for prompt generation.
 
