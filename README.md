@@ -119,6 +119,9 @@ Gemini Omni is a free AI video generator powered by Google's omni-modal model, s
 - **[TubePrompter](https://tubeprompter.com)** 🎬
 TubePrompter is a free tool that converts YouTube, TikTok, and Instagram videos into optimized prompts for Sora and other AI video generators. It uses computer vision to analyze video frames and extract camera movements, color grading, and composition details for prompt generation.
 
+
+- **[Sora2 Hub — Multi-Model AI Video Generator](https://sora2hub.org/)** 🎬
+Sora2 Hub is a web app for AI video and image generation that runs Veo 3.1, Kling 3.0, Seedance 2.0, Hailuo, Nano Banana Pro and GPT Image 2 on one credit balance. Useful as a Sora alternative now that the Sora app and API have shut down.
 ## Slides and Presentations
 
 - 🎥 **SORA AI: Will It Be the Future of Video Creation?** - [View Slide](https://www.slideshare.net/slideshow/sora-ai-will-it-be-the-future-of-video-creation/267439592)
