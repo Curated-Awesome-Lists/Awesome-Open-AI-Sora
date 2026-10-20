@@ -118,6 +118,8 @@ Gemini Omni is a free AI video generator powered by Google's omni-modal model, s
 
 - **[TubePrompter](https://tubeprompter.com)** 🎬
 TubePrompter is a free tool that converts YouTube, TikTok, and Instagram videos into optimized prompts for Sora and other AI video generators. It uses computer vision to analyze video frames and extract camera movements, color grading, and composition details for prompt generation.
+- **[Pixwit](https://pixwit.ai)** 🎬
+Pixwit is a web-based AI creative platform offering text-to-video and image-to-video generation, together with AI image and music generation, in one workspace.
 
 ## Slides and Presentations
 
