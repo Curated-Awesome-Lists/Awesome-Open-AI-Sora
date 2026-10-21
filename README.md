@@ -114,6 +114,8 @@ Discover OpenAI's Sora on Product Hunt, a leading platform for the latest tech i
 Seedance 2.0 is a free online AI video generator built on ByteDance's Seedance model, offering text-to-video and image-to-video creation with native audio sync, lifelike lip-sync in 8+ languages, character consistency, and multi-shot storytelling. A compelling Sora alternative for creators and marketers.
 - **[Gemini Omni AI Video Generator — Free Online Sora Alternative](https://gemini-omni.pro/)** 🎬
 Gemini Omni is a free AI video generator powered by Google's omni-modal model, supporting text-to-video and image-to-video with native audio sync and in-chat editing. A fast, controllable Sora alternative that accepts text, image, video, and audio in a single prompt.
+- **[Wan 3.5 AI Video Generator](https://wan35.app/)** 🎬
+Wan 3.5 is an online AI video generator for text-to-video and image-to-video creation, with AI image tools in the same workspace. A browser-based Sora alternative for turning a prompt or a single photo into a short clip.
 
 
 - **[TubePrompter](https://tubeprompter.com)** 🎬
