@@ -119,7 +119,7 @@ Gemini Omni is a free AI video generator powered by Google's omni-modal model, s
 - **[TubePrompter](https://tubeprompter.com)** 🎬
 TubePrompter is a free tool that converts YouTube, TikTok, and Instagram videos into optimized prompts for Sora and other AI video generators. It uses computer vision to analyze video frames and extract camera movements, color grading, and composition details for prompt generation.
 - **[RefVid — Consistent Product and Character Video](https://refvid.com)** 🎬
-RefVid is a reference-to-video studio: save a product or a character from 1–5 photos once, then generate Kling 4, Seedance 2.5 or Kling 3.0 Omni videos in which the label, face and outfit stay the same from clip to clip. A Sora alternative for product, e-commerce and UGC-style videos, with free credits on sign-up.
+RefVid is a reference-to-video studio: save a product or a character from 1–10 photos once, then generate Kling 4, Seedance 2.5 or Kling 3.0 Omni videos in which the label, face and outfit stay the same from clip to clip. A Sora alternative for product, e-commerce and UGC-style videos, with free credits on sign-up.
 
 ## Slides and Presentations
 
